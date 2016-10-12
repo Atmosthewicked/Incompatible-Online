@@ -256,7 +256,7 @@ a.button:hover {
 }
 
 .expandingArea { position: relative }
-	
+	/* Cause problem with the nav, I need to fix this probably related with the position maybe syg can help me YAY MOTHERFUCKER  
 .scanline {
 	animation: scroll 10s 5s infinite;
 	background: -moz-linear-gradient(top,  rgba(0,221,0,0) 0%, rgba(0,221,0,1) 50%, rgba(0,221,0,0) 100%);
@@ -272,7 +272,7 @@ a.button:hover {
 		top: -5%;
 	z-index: 2;
 }
-
+*/
 .clear {
 	clear: both;
 }
